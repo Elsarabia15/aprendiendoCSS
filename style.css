@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: #59b61b
+}
+
+.minombre {
+    text-align: center;
+    color: #59b61b;
+}
+
+h2 {
+    color: red
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.justificado {
+    text-align: justify
+
+}
+
+.educacion {
+    text-align: justify;
+}
+
+.experiencia {
+    text-align: justify;
+}
+
+.habilidades {
+    text-align: justify;
+}
+
+.footer {
+    text-align: right;
+    color: green;
+}
